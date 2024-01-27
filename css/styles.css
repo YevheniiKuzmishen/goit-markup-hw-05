@@ -593,7 +593,11 @@ img {
 }
 
 .modal-field {
-  margin-bottom: 8px;
+  margin-bottom: 16px;
+}
+
+.check-modal-field {
+  margin-bottom: 24px;
 }
 
 .modal-input {
@@ -794,5 +798,6 @@ img {
 }
 
 .footer-btn-icon {
+  margin-left: 16px; 
   fill: #ffffff;
 }
