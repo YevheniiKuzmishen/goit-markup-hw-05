@@ -593,6 +593,10 @@ img {
 }
 
 .modal-field {
+  margin-bottom: 8px;
+}
+
+.text-modal-field {
   margin-bottom: 16px;
 }
 
@@ -701,7 +705,6 @@ img {
   height: 16px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   margin-right: 8px;
-  display: flex;
   align-items: center;
   justify-content: center;
   fill: transparent;
@@ -712,15 +715,6 @@ img {
   border: none;
   fill: #f4f4fd;
 }
-
-/* .footer-label {
-  display: block;
-  color: #fff;
-  font-size: 16px;
-  line-height: 1.5em;
-  letter-spacing: 0.32px;
-  margin-bottom: 16px;
-} */
 
 .footer-input-title {
   margin-bottom: 16px;
